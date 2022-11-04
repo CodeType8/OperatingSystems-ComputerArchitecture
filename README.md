@@ -1,2 +1,2 @@
-CptS 460 class Final Project
+Creating Unix operating system.
 Operating Systems and Computer Architecture
